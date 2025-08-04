@@ -4,11 +4,17 @@
 
 ---
 
+### 🌐 Onde me encontrar
+
+- ✉️ Email: **rccorrea@ucs.br**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/renan-correa-991528378)
+
+---
+
 ### 🎓 Sobre mim
 
-- 🎓 Estudante de **Engenharia da Computação** na **UCS**  
+- 🎓 Estudante de **Engenharia da Computação**
 - 💻 Atualmente aprendendo **Java** e com base sólida em **C**  
-- 🧠 Sempre curioso e motivado a aprender novas tecnologias  
 - 🎯 Em busca de **oportunidades de estágio** na área de desenvolvimento  
 - 📍 Caxias do Sul – RS, Brasil
 
@@ -24,13 +30,6 @@
 
 ---
 
-### 🌐 Onde me encontrar
-
-- ✉️ Email: **rccorrea@ucs.br**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/renan-correa-991528378)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -42,7 +41,7 @@
 
 ### ✨ Um passo de cada vez...
 
-> *"Todo especialista já foi um iniciante que decidiu não desistir."*
+> *A única maneira de fazer um ótimo trabalho é amar o que você faz."*
 
 ---
 
